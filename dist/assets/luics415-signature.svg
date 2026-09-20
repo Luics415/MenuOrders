@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 250" role="img" aria-labelledby="title description">
+  <title id="title">Firma Luics415</title>
+  <desc id="description">Firma Luics415 con trazo de ancla para MenuOrders</desc>
+  <defs>
+    <linearGradient id="signature" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#35517d"/>
+      <stop offset=".58" stop-color="#4c86a8"/>
+      <stop offset="1" stop-color="#c963b3"/>
+    </linearGradient>
+  </defs>
+  <text x="42" y="155" fill="url(#signature)" font-family="Segoe Script, Brush Script MT, cursive" font-size="132" font-weight="700" letter-spacing="-8">Luics415</text>
+  <path d="M88 190 C240 225 475 218 646 178" fill="none" stroke="#afe7ef" stroke-width="13" stroke-linecap="round"/>
+  <path d="M656 151v50m-25-31h50m-45 8c4 28 36 38 45 5m-25-49a13 13 0 1 0 0-26 13 13 0 0 0 0 26Z" fill="none" stroke="#c963b3" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
