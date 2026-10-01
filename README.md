@@ -9,9 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://menuorders.vercel.app/"><strong>Vista pública en Vercel (Recomendado)</strong></a>
-  ·
-  <a href="https://luics415.github.io/MenuOrders/">Espejo GitHub Pages</a>
+  <a href="https://luics415.github.io/MenuOrders/"><strong>Vista pública</strong></a>
   ·
   <a href="https://luics415.github.io/proyectos/menuorders/"><strong>Caso técnico en el portafolio</strong></a>
 </p>
