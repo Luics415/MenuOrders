@@ -222,3 +222,10 @@ Diseñado y desarrollado por **Luics415**.
 <p align="center">
   <img src="dist/assets/luics415-signature.svg" width="260" alt="Firma Luics415">
 </p>
+
+---
+
+## 📄 Licencia
+
+Este repositorio y su vitrina pública están bajo la Licencia [MIT](LICENSE).
+
